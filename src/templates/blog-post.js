@@ -43,14 +43,14 @@ export default ({ data, pageContext, location }) => {
       <Elements.Hr />
       <Bio />
       <PostNavigator pageContext={pageContext} />
-      {!!disqusShortName && (
+      {/* {!!disqusShortName && (
         <Disqus
           post={post}
           shortName={disqusShortName}
           siteUrl={siteUrl}
           slug={pageContext.slug}
         />
-      )}
+      )} */}
       {!!utterances && <Utterances repo={utterances} />}
     </Layout>
   )
@@ -64,7 +64,6 @@ export const pageQuery = graphql`
         author
         siteUrl
         comment {
-          disqusShortName
           utterances
         }
         sponsor {

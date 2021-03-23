@@ -14,7 +14,7 @@ module.exports = {
   icon: `content/assets/serzhul.png`, // Add your favicon
   keywords: [`blog`],
   comment: {
-    disqusShortName: 'serzhul-io', // Your disqus-short-name. check disqus.com.
+    // disqusShortName: 'serzhul-io', // Your disqus-short-name. check disqus.com.
     utterances: 'Serzhul/Serzhul-Developer', // Your repository for archive comment
   },
   configs: {
