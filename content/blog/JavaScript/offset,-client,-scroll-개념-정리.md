@@ -1,7 +1,7 @@
 ---
 title: Offset, Client, Scroll 개념 정리
 date: 2021-04-03 22:04:39
-category: javascript
+category: JavaScript
 thumbnail: { thumbnailSrc }
 draft: false
 ---

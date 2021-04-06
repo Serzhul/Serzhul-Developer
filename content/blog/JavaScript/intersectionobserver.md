@@ -1,7 +1,7 @@
 ---
 title: intersectionObserver
 date: 2021-04-04 19:04:76
-category: javascript
+category: JavaScript
 thumbnail: { thumbnailSrc }
 draft: false
 ---
