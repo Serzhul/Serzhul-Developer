@@ -1,7 +1,7 @@
 ---
 title: DOM은 어떻게 동작하는가?
 date: 2021-05-09 09:05:58
-category: javascript
+category: JavaScript
 thumbnail: { thumbnailSrc }
 draft: false
 ---
