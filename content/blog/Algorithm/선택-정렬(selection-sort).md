@@ -1,7 +1,7 @@
 ---
 title: 선택 정렬(Selection Sort)
 date: 2021-08-26 18:08:22
-category: algorithm
+category: Algorithm
 thumbnail: { thumbnailSrc }
 draft: false
 ---
