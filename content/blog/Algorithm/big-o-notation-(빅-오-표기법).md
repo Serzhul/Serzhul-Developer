@@ -22,9 +22,9 @@ draft: false
 - 더 빠른 코드, 더 적은 메모리를 사용하는 코드, 더 읽기 쉬운 코드 등이 기준이 될 수 있다.
 - 알고리즘에서 더 좋은 코드를 정하는 기준은 보통 시간복잡도(Time Complexity)와 공간 복잡도(Space Complexity)가 있다.
 
-- [Time complexity(시간복잡도)]
+- [Time complexity(시간복잡도)](<https://serzhul.io/Algorithm/time-complexity(%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84)/>)
 
-- [Space Complexity(공간 복잡도)]
+- [Space Complexity(공간 복잡도)](<https://serzhul.io/Algorithm/space-complexity(%EA%B3%B5%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84)/>)
 
 $cf)$ 로가리듬 복잡도(Logarithms Complexity)
 

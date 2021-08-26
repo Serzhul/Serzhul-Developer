@@ -1,7 +1,7 @@
 ---
 title: 마진(margin)
 date: 2021-08-08 18:08:98
-category: css
+category: CSS
 thumbnail: { thumbnailSrc }
 draft: false
 ---
