@@ -19,7 +19,11 @@
 }
 
 blockquote {
+  margin-top: 50px;
+  border-left: 15px solid aquamarine;
   color: $blockquote-text-color;
+  font-size: 30px;
+  font-weight: 800;
 }
 
 code[class*='language-'],
@@ -152,4 +156,10 @@ pre[class*='language-'] {
 code.language-text {
   color: #55efc4;
   border: 1.4px solid #2ed573;
+}
+
+.update-date {
+  font-style: italic;
+  font-size: 12px;
+  text-align: right;
 }
