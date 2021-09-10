@@ -1,7 +1,7 @@
 ---
 title: JS로 DOM 그리는 3가지 방식
 date: 2021-09-03 18:09:99
-category: Javascript
+category: JavaScript
 thumbnail: { thumbnailSrc }
 draft: false
 ---

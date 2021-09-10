@@ -1,8 +1,8 @@
 module.exports = {
-  title: `Serzhul`,
-  description: `The Story of Growing`,
+  title: `Serzhul's Blog`,
+  description: `Development Blog of Abel Seo`,
   author: `Serzhul`,
-  introduction: `I'm a Developer Growing Everyday `,
+  introduction: `Abel Seo, Front-end Developer`,
   siteUrl: `https://serzhul.io`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
