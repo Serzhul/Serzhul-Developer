@@ -1,7 +1,7 @@
 ---
 title: JSX
 date: 2021-08-08 18:08:23
-category: REACT
+category: React
 thumbnail: { thumbnailSrc }
 draft: false
 ---
