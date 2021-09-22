@@ -1,7 +1,7 @@
 ---
 title: Javascript 테크닉 - 1
 date: 2021-09-20 14:09:05
-category: Javascript
+category: JavaScript
 thumbnail: { thumbnailSrc }
 draft: false
 ---
