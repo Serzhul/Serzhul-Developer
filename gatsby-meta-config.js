@@ -9,7 +9,7 @@ module.exports = {
     github: `Serzhul`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
-    linkedin: `sdwzzng@naver.com`, // Your LinkedIn account
+    linkedin: ``, // Your LinkedIn account
   },
   icon: `content/assets/serzhul.png`, // Add your favicon
   keywords: [`blog`],
