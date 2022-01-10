@@ -1,7 +1,7 @@
 ---
 title: 프론트엔드 개발자 면접 질문 (JavaScript)
 date: 2022-01-10 20:01:87
-category: career
+category: Career
 thumbnail: { thumbnailSrc }
 draft: false
 ---
