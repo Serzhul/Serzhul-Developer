@@ -24,7 +24,12 @@ export const Bio = () => (
               />
               <div className="author-name">
                 <span className="author-name-prefix">Written by</span>
-                <Link to={'/about'} className="author-name-content">
+                <Link
+                  to={
+                    'https://adhesive-ice-cb5.notion.site/Abel-Seo-98c06b7b3364422b9af1471aa97c4a3a'
+                  }
+                  className="author-name-content"
+                >
                   <span>@{author}</span>
                 </Link>
                 <div className="author-introduction">{introduction}</div>
