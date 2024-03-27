@@ -8,7 +8,7 @@
     "url": "https://github.com/JaeYeopHan/gatsby-starter-bee/issues"
   },
   "dependencies": {
-    "gatsby": "^5.0.0",
+    "gatsby": "^3.0.0",
     "gatsby-image": "^2.0.34",
     "gatsby-plugin-feed": "^2.1.0",
     "gatsby-plugin-google-analytics": "^2.0.17",
@@ -33,7 +33,7 @@
     "gatsby-transformer-remark": "^6.10.0",
     "gatsby-transformer-sharp": "^2.1.17",
     "intersection-observer": "^0.5.1",
-    "katex": "^0.11.1",
+    "katex": "^0.16.10",
     "lodash": "^4.17.19",
     "node-sass": "^6.0.1",
     "prismjs": "^1.23.0",
